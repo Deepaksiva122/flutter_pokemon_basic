@@ -19,8 +19,6 @@ Pokedex app built with Flutter
 ![Pokemon Info - Evolution](screenshots/pokemon-info-evolution.png "Pokemon Info - Evolution")
 ![Pokemon Info - Base Stats (Expanded)](screenshots/pokemon-info-expanded.png "Pokemon Info - Base Stats (Expanded)")
 
-## Video demo
-[![Demo](screenshots/thumbnail.png)](https://www.youtube.com/watch?v=qKrFWerjoV8)
 
 ## Installation
 
@@ -52,11 +50,7 @@ Pokedex app built with Flutter
 - [x] Pokemon Info - Add Base Stats data by [balvinderz](https://github.com/balvinderz)
 - [x] Pokemon Info - Add Evolution data by [balvinderz](https://github.com/balvinderz)
 
-## Thanks
 
-- [Saepul Nahwan](https://dribbble.com/saepulnahwan23) for his [Pokedex App design](https://dribbble.com/shots/6545819-Pokedex-App)
-- [Sabri Bey](https://www.deviantart.com/sabribey) for the Pikachu gif
-- [Flutter](https://flutter.dev) for the great cross platform framework
 
 ## License
 
